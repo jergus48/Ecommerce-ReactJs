@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Ecommerce made by React Js and Commerce JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with help of these tools:
 
-## Available Scripts
+- React Js
+- Commerce JS
+- Material-UI
+  -Stripe JS
 
-In the project directory, you can run:
+Here Are Photos of Store:
 
-### `npm start`
+                                                              Home Page:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![home](https://user-images.githubusercontent.com/85837671/192340084-c78532cc-b3db-404c-a099-e7fec35d5581.png)
 
-### `npm test`
+                                                              Categories:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![notebooks](https://user-images.githubusercontent.com/85837671/192340149-5abb2f78-4417-43f6-8502-2a6d6f7869c6.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![mobiles](https://user-images.githubusercontent.com/85837671/192340184-78ed3d55-5f78-45bd-a841-0371c3534850.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+                                                              Product look:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+![productLook](https://user-images.githubusercontent.com/85837671/192340252-19151c80-6d44-4d28-89ef-ba020620d95b.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+                                                              Shopping Cart:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Cart](https://user-images.githubusercontent.com/85837671/192340318-ea19dbcd-d09f-4b2e-ae84-fc91c150c2f7.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+                                                              Checkout:
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![address](https://user-images.githubusercontent.com/85837671/192340433-db636146-443a-4e2e-aeb2-1d906589066f.png)
+![pay](https://user-images.githubusercontent.com/85837671/192340479-81535b26-c7c3-4828-abfb-23d541f0ac0b.png)
+![confirm](https://user-images.githubusercontent.com/85837671/192340506-2ee9bdd2-ae55-44c3-a726-e8f73a051ee1.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### For using Register to commerce JS and Stripe(wont make order without cart)
 
-### Code Splitting
+##### Commerce JS dashboard:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Commerce-js](https://user-images.githubusercontent.com/85837671/192341779-9d288db4-90da-49db-83e3-00ff5319a82b.png)
 
-### Analyzing the Bundle Size
+##### Disadvantages of Commerce JS API:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![cmjs-pricing](https://user-images.githubusercontent.com/85837671/192342545-0bd2a5bd-6434-4504-80fc-7d785604bff0.png)
