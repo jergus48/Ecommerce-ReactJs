@@ -9,30 +9,25 @@ This project was made with help of these tools:
 
 Here Are Photos of Store:
 
-                                                              Home Page:
-
+                                                Home Page:
 
 ![home](https://user-images.githubusercontent.com/85837671/192340084-c78532cc-b3db-404c-a099-e7fec35d5581.png)
 
-                                                              Categories:
-
+                                                Categories:
 
 ![notebooks](https://user-images.githubusercontent.com/85837671/192340149-5abb2f78-4417-43f6-8502-2a6d6f7869c6.png)
 
 ![mobiles](https://user-images.githubusercontent.com/85837671/192340184-78ed3d55-5f78-45bd-a841-0371c3534850.png)
 
-                                                              Product look:
-
+                                                Product look:
 
 ![productLook](https://user-images.githubusercontent.com/85837671/192340252-19151c80-6d44-4d28-89ef-ba020620d95b.png)
 
-                                                              Shopping Cart:
-
+                                                Shopping Cart:
 
 ![Cart](https://user-images.githubusercontent.com/85837671/192340318-ea19dbcd-d09f-4b2e-ae84-fc91c150c2f7.png)
 
-                                                              Checkout:
-
+                                                Checkout:
 
 ![address](https://user-images.githubusercontent.com/85837671/192340433-db636146-443a-4e2e-aeb2-1d906589066f.png)
 ![pay](https://user-images.githubusercontent.com/85837671/192340479-81535b26-c7c3-4828-abfb-23d541f0ac0b.png)
