@@ -33,7 +33,7 @@ const Products = ({products, onAddToCart, total,NumP}) => {
                 </Grid>
 
             </main>
-            <Grid style={{position:'absolute',bottom: 0,width:'100%'}}><Footer/></Grid>
+            <Grid style={{position:'fixed',bottom: 0,width:'100%'}}><Footer/></Grid>
         </div>
     )
     
